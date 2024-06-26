@@ -1,0 +1,8 @@
+{
+    "ItemName": "Oak Bench",
+    "Type": "Furniture",
+    "TextureWidth": 80,
+    "TextureHeight": 48,
+  "Keywords": [ "Greenhouse", "StarAmy" ],
+    "Variations": 1
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "[AT] StarAmys Wild Greenhouse",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Alternative Textures of random and custom furniture I wanted for AT.",
+  "UniqueID": "StarAmy.Custom.Furniture",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "3.3.0"
+  }
+		
+}

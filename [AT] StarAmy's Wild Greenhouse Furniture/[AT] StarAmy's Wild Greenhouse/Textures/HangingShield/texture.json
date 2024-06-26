@@ -1,0 +1,8 @@
+{
+  "ItemName": "Hanging Shield",
+  "Type": "Furniture",
+  "TextureWidth": 16,
+  "TextureHeight": 16,
+  "Keywords": [ "Greenhouse", "StarAmy" ],
+  "Variations": 6
+}
